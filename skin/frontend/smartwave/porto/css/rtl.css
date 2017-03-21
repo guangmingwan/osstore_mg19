@@ -326,7 +326,7 @@ tr.summary-details-excluded{font-style:italic}
 .header-container .form-language select,.header-container .form-currency select{display:none}
 .header-container .links{display:block;float:left;padding:0;margin:3px 0;color:#08c}
 .header-container .top-links-area{display:block;float:left;padding:0;position:relative}
-.header-container .top-links a{color:#999}
+.header-container .top-links a{color:#999!important;}
 .header-container .top-links-area a{padding-top:5px;padding-bottom:5px}
 .header-container .top-links .selectbox li a:hover{color:#fff}
 .header-container .links li{font-size:11px;padding:0 15px;text-transform:uppercase;line-height:19px;border-right:1px solid #ccc}
