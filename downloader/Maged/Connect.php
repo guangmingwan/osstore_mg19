@@ -460,6 +460,7 @@ function clear_cache(callbacks)
             var result = true;
             try{
                 console.log(JSON.stringify(transport));
+                console.log(json);
                 var response = transport.responseJSON || transport.responseText.evalJSON(true) || {};
                 result = response.result || false;
 
