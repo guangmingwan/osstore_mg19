@@ -460,9 +460,9 @@ function clear_cache(callbacks)
         onSuccess: function(transport, json) {
             var result = true;
             try{
-                console.log(JSON.stringify(transport));
-                console.log(json);
-                var response = transport.responseJSON || transport.responseText.evalJSON(true) || {};
+//                console.log(JSON.stringify(transport));
+//                console.log(json);
+                var response = transport.responseJSON || JSON.parse( transport.responseText ) || {};
                 result = response.result || false;
 
                 if (typeof response.message != 'undefined') {
