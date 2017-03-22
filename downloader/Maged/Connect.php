@@ -459,6 +459,7 @@ function clear_cache(callbacks)
         onSuccess: function(transport, json) {
             var result = true;
             try{
+                console.log(JSON.stringify(transport));
                 var response = transport.responseJSON || transport.responseText.evalJSON(true) || {};
                 result = response.result || false;
 
