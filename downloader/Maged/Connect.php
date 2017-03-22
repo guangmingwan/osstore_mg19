@@ -471,6 +471,7 @@ function clear_cache(callbacks)
                 }
             } catch (ex){
                 result = false;
+                message = message + "\n" + ex.message;
             }
             if (result) {
                 callbacks.success();
