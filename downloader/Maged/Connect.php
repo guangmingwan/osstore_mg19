@@ -451,6 +451,7 @@ function clear_cache(callbacks)
 
     new top.Ajax.Request(url, {
         method: 'post',
+        requestHeaders: {Accept: 'application/json'},
         parameters: {clean_sessions:clean, maintenance:maintenance},
         onCreate: function() {
             show_message('Cleaning cache');
