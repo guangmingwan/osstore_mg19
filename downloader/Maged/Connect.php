@@ -451,6 +451,7 @@ function clear_cache(callbacks)
 
     new top.Ajax.Request(url, {
         method: 'post',
+        requestHeaders: {Accept: 'application/json'},
         parameters: {clean_sessions:clean, maintenance:maintenance},
         onCreate: function() {
             show_message('Cleaning cache');
@@ -459,7 +460,9 @@ function clear_cache(callbacks)
         onSuccess: function(transport, json) {
             var result = true;
             try{
-                var response = transport.responseJSON || transport.responseText.evalJSON(true) || {};
+//                console.log(JSON.stringify(transport));
+//                console.log(json);
+                var response = transport.responseJSON || JSON.parse( transport.responseText ) || {};
                 result = response.result || false;
 
                 if (typeof response.message != 'undefined') {
@@ -471,6 +474,7 @@ function clear_cache(callbacks)
                 }
             } catch (ex){
                 result = false;
+                message = message + "\n" + ex.message;
             }
             if (result) {
                 callbacks.success();

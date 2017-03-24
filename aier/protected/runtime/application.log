@@ -1,0 +1,1207 @@
+2016/12/19 03:30:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/19 04:49:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/20 07:49:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/20 20:53:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/21 12:09:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/22 12:58:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/22 15:36:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('language/Swedis...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js
+---
+2016/12/22 16:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/23 20:50:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/24 04:57:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/25 01:06:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/25 21:12:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/26 05:22:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/26 14:05:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('language/Swedis...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js
+---
+2016/12/27 06:51:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "axis-cgi/jpg/image.cgi".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('axis-cgi/jpg/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/axis-cgi/jpg/image.cgi
+HTTP_REFERER=1
+---
+2016/12/27 09:39:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/27 13:08:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/28 13:55:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/29 05:05:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/29 18:09:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/30 21:00:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/30 22:24:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2016/12/31 05:10:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('language/Swedis...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js
+---
+2017/01/01 02:41:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/01 13:00:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/01 18:20:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "axis-cgi/jpg/image.cgi".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('axis-cgi/jpg/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/axis-cgi/jpg/image.cgi
+HTTP_REFERER=1
+---
+2017/01/02 06:58:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/03 05:04:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/03 11:15:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/04 10:00:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('language/Swedis...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js
+---
+2017/01/04 15:32:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/04 21:05:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/05 19:50:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/06 12:58:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/07 00:05:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/08 04:20:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/08 04:53:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/08 21:48:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('language/Swedis...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js
+---
+2017/01/09 08:36:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/09 20:53:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/10 12:57:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/11 12:57:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/11 17:17:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/12 21:36:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/13 19:44:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('language/Swedis...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js
+---
+2017/01/14 01:49:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/15 06:01:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/16 00:47:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "axis-cgi/jpg/image.cgi".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('axis-cgi/jpg/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/axis-cgi/jpg/image.cgi
+HTTP_REFERER=1
+---
+2017/01/16 10:22:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/17 14:39:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/18 18:51:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/01/20 08:08:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "axis-cgi/jpg/image.cgi".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('axis-cgi/jpg/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/axis-cgi/jpg/image.cgi
+HTTP_REFERER=1
+---
+2017/01/22 00:59:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('language/Swedis...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js
+---
+2017/01/31 11:14:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "axis-cgi/jpg/image.cgi".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('axis-cgi/jpg/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/axis-cgi/jpg/image.cgi
+HTTP_REFERER=1
+---
+2017/01/31 23:31:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "HNAP1".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('HNAP1')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/HNAP1/
+HTTP_REFERER=http://158.69.68.57:81/
+---
+2017/02/05 18:50:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/06 11:55:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "status".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('status')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/status?full=true
+---
+2017/02/06 11:56:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "jmx-console".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('jmx-console')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/jmx-console
+---
+2017/02/06 11:56:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrator".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('administrator')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=//administrator
+---
+2017/02/06 11:56:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "joomla/administrator".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('joomla/administ...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/joomla/administrator
+---
+2017/02/06 11:56:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cms/administrator".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cms/administrat...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cms/administrator
+---
+2017/02/06 11:56:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Joomla/administrator".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('Joomla/administ...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/Joomla/administrator
+---
+2017/02/06 11:57:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "msd".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('msd')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/msd
+---
+2017/02/06 11:57:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cgi-bin/php".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cgi-bin/php')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cgi-bin/php
+---
+2017/02/06 11:57:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "phpmyadmin".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('phpmyadmin')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpmyadmin
+---
+2017/02/06 23:11:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/08 03:34:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/08 16:42:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "script".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('script')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/script
+---
+2017/02/08 16:42:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "jenkins/script".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('jenkins/script')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/jenkins/script
+---
+2017/02/08 16:42:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('login')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/login
+---
+2017/02/08 16:42:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "jmx-console".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('jmx-console')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/jmx-console
+---
+2017/02/08 16:42:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "manager/html".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('manager/html')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/manager/html
+---
+2017/02/08 16:42:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "msd".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('msd')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/msd
+---
+2017/02/08 16:42:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mySqlDumper".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('mySqlDumper')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/mySqlDumper
+---
+2017/02/08 16:42:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "msd1.24stable".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('msd1.24stable')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/msd1.24stable
+---
+2017/02/08 16:43:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "msd1.24.4".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('msd1.24.4')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/msd1.24.4
+---
+2017/02/08 16:43:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mysqldumper".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('mysqldumper')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/mysqldumper
+---
+2017/02/08 16:43:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "MySQLDumper".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('MySQLDumper')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/MySQLDumper
+---
+2017/02/08 16:43:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mysql".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('mysql')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/mysql
+---
+2017/02/08 16:43:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "sql".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('sql')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/sql
+---
+2017/02/08 16:43:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "phpmyadmin".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('phpmyadmin')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpmyadmin
+---
+2017/02/08 16:43:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "phpMyAdmin".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('phpMyAdmin')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpMyAdmin
+---
+2017/02/08 16:43:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mysql".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('mysql')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/mysql
+---
+2017/02/08 16:43:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "sql".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('sql')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/sql
+---
+2017/02/08 16:43:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "myadmin".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('myadmin')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/myadmin
+---
+2017/02/08 16:43:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "phpMyAdmin-4.2.1-all-languages".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('phpMyAdmin-4.2....')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpMyAdmin-4.2.1-all-languages
+---
+2017/02/08 16:43:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "phpMyAdmin-4.2.1-english".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('phpMyAdmin-4.2....')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpMyAdmin-4.2.1-english
+---
+2017/02/09 07:53:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/10 12:14:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/11 16:35:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/12 21:00:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/13 15:00:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "status".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('status')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/status?full=true
+---
+2017/02/13 15:01:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "jmx-console".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('jmx-console')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/jmx-console
+---
+2017/02/13 15:01:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "manager/html".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('manager/html')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/manager/html
+---
+2017/02/13 15:01:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrator".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('administrator')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=//administrator
+---
+2017/02/13 15:01:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "joomla/administrator".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('joomla/administ...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/joomla/administrator
+---
+2017/02/13 15:01:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cms/administrator".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cms/administrat...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cms/administrator
+---
+2017/02/13 15:01:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Joomla/administrator".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('Joomla/administ...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/Joomla/administrator
+---
+2017/02/13 15:01:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "msd".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('msd')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/msd
+---
+2017/02/13 15:01:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mySqlDumper".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('mySqlDumper')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/mySqlDumper
+---
+2017/02/13 15:01:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "msd1.24stable".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('msd1.24stable')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/msd1.24stable
+---
+2017/02/13 15:01:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "msd1.24.4".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('msd1.24.4')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/msd1.24.4
+---
+2017/02/13 15:01:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mysqldumper".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('mysqldumper')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/mysqldumper
+---
+2017/02/13 15:01:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "MySQLDumper".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('MySQLDumper')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/MySQLDumper
+---
+2017/02/13 15:01:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mysql".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('mysql')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/mysql
+---
+2017/02/13 15:01:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "sql".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('sql')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/sql
+---
+2017/02/13 15:01:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cgi-bin/php".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cgi-bin/php')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cgi-bin/php
+---
+2017/02/13 15:01:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cgi-bin/php5".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cgi-bin/php5')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cgi-bin/php5
+---
+2017/02/13 15:01:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "phpmyadmin".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('phpmyadmin')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpmyadmin
+---
+2017/02/13 15:01:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "phpMyAdmin".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('phpMyAdmin')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpMyAdmin
+---
+2017/02/13 15:01:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mysql".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('mysql')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/mysql
+---
+2017/02/13 15:01:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "sql".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('sql')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/sql
+---
+2017/02/13 15:01:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "myadmin".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('myadmin')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/myadmin
+---
+2017/02/13 15:01:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "webdav".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('webdav')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/webdav
+---
+2017/02/14 01:23:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/15 05:47:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/15 20:14:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fastenv".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('fastenv')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/fastenv
+---
+2017/02/16 10:11:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/17 14:36:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/18 18:59:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/19 23:23:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/21 03:46:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/22 08:08:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/23 12:29:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/24 16:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/25 21:14:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/27 01:35:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/02/28 05:56:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/01 10:16:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/02 14:35:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/03 18:55:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/04 23:16:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/06 03:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/06 07:36:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "HNAP1".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('HNAP1')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/HNAP1/
+---
+2017/03/07 08:00:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/08 12:22:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/09 16:45:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/10 21:06:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/11 00:31:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "HNAP1".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('HNAP1')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/HNAP1/
+HTTP_REFERER=http://158.69.68.57:81/
+---
+2017/03/12 01:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/13 06:51:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/14 08:44:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2017/03/14 11:13:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/15 15:33:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/16 15:35:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "manager/html".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('manager/html')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/manager/html
+---
+2017/03/16 19:52:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/18 00:07:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/19 04:22:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/20 08:40:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
+2017/03/21 12:57:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "cache/global/img/gs.gif".' in /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/vhosts/www.os-store.com/aier/framework/web/CWebApplication.php(141): CWebApplication->runController('cache/global/im...')
+#1 /data/vhosts/www.os-store.com/aier/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /data/vhosts/www.os-store.com/aier/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/cache/global/img/gs.gif
+---
