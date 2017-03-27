@@ -99,17 +99,21 @@
         <reference name="top.menu">
             <action method="unsetChild" ifconfig="porto_settings/header/type" condition="9"><name>catalog.topnav</name></action>
             <block type="core/template" name="topnav.sidemenu">
+                <action method="setCacheLifetime"><lifetime>8640000</lifetime></action>
                 <action method="setTemplate" ifconfig="porto_settings/header/type" condition="9"><template>smartwave/megamenu/html/topnav.sidemenu.phtml</template></action>
             </block>
             <block type="core/template" name="topnav.sidemobilemenu">
+                <action method="setCacheLifetime"><lifetime>8640000</lifetime></action>
                 <action method="setTemplate" ifconfig="porto_settings/header/type" condition="9"><template>smartwave/megamenu/html/topnav.sidemobilemenu.phtml</template></action>
             </block>
             <action method="unsetChild" ifconfig="porto_settings/header/type" condition="11"><name>catalog.topnav</name></action>
             <block type="core/template" name="sidemenu">
+                <action method="setCacheLifetime"><lifetime>8640000</lifetime></action>
                 <action method="setTemplate" ifconfig="porto_settings/header/type" condition="11"><template>smartwave/megamenu/html/sidemenu.phtml</template></action>
             </block>
         </reference>
         <reference name="mobile.nav">
+            <action method="setCacheLifetime"><lifetime>8640000</lifetime></action>
             <action method="setTemplate" ifconfig="porto_settings/header/type" condition="11"><template>smartwave/megamenu/html/sidemobilemenu.phtml</template></action>
         </reference>
         <reference name="page.header">
