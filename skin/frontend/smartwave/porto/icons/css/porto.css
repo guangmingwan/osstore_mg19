@@ -21,7 +21,7 @@
 */
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "porto!important";
+  font-family: "porto"!important;
   font-style: normal;
   font-weight: normal;
   speak: none;
