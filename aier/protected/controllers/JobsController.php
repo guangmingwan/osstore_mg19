@@ -28,7 +28,7 @@ class JobsController extends Controller
 	{
 		return array(
 			array('allow',  // allow all users to access 'index' and 'view' actions.
-				'actions'=>array('view'),
+				'actions'=>array('view','guestdo'),
 				'users'=>array('*'),
 			),
 			array('allow', // allow authenticated users to access all actions
@@ -54,7 +54,20 @@ SELECT `entity_type_id`, (SELECT `attribute_id` FROM `eav_attribute` WHERE `enti
 		$rc = mysql_affected_rows();
 		echo "Records inserted: " . $rc;
  	}
-
+	public function actionGuestdo() {
+		$branch = 1;
+		$predictions = Jobs::model()->findAll("branch=:branch",array(":branch"=>$branch));
+                                if(empty($predictions))
+                                {
+                                $model = new Jobs();
+                                $model->branch= $branch;
+                                if($model->save())
+                                        die("begin do!\n");
+                                }
+				else {
+					die("has doing!\n");
+				}
+	}
 	/**
 	 * Lists all models.
 	 */
