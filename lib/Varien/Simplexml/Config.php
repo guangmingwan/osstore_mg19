@@ -507,7 +507,13 @@ class Varien_Simplexml_Config
     public function loadString($string)
     {
         if (is_string($string)) {
-            $xml = simplexml_load_string($string, $this->_elementClass);
+	   try {
+            $xml = @simplexml_load_string($string, $this->_elementClass);
+	     }
+		catch(Excetion $e){
+		    print_r($e->getMessage());
+	}
+
 
             if ($xml instanceof Varien_Simplexml_Element) {
                 $this->_xml = $xml;
