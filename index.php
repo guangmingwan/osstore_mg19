@@ -23,6 +23,13 @@
  * @copyright  Copyright (c) 2006-2016 X.commerce, Inc. and affiliates (http://www.magento.com)
  * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
+$bad_spiders = "MauiBot (crawler.feedback+dc@gmail.com)";
+$user_agent=$user_agent = $_SERVER['HTTP_USER_AGENT'];
+if (strpos($user_agent, $bad_spiders) === false) {
+}
+else {
+die();
+}
 
 if (version_compare(phpversion(), '5.3.0', '<')===true) {
     echo  '<div style="font:12px/1.35em arial, helvetica, sans-serif;">
@@ -46,7 +53,6 @@ if (file_exists($compilerConfig)) {
 
 $mageFilename = MAGENTO_ROOT . '/app/Mage.php';
 $maintenanceFile = 'maintenance.flag';
-
 if (!file_exists($mageFilename)) {
     if (is_dir('downloader')) {
         header("Location: downloader");
@@ -55,22 +61,26 @@ if (!file_exists($mageFilename)) {
     }
     exit;
 }
+if( strstr($_SERVER["REQUEST_URI"],"/houtaix")) {
 
+
+}
+else {
 if (file_exists($maintenanceFile)) {
     include_once dirname(__FILE__) . '/errors/503.php';
     exit;
 }
-
+}
 require MAGENTO_ROOT . '/app/bootstrap.php';
 require_once $mageFilename;
 
 #Varien_Profiler::enable();
 
-if (isset($_SERVER['MAGE_IS_DEVELOPER_MODE'])) {
+//if (isset($_SERVER['MAGE_IS_DEVELOPER_MODE'])) {
     Mage::setIsDeveloperMode(true);
-}
+//}
 
-#ini_set('display_errors', 1);
+ini_set('display_errors', 1);
 
 umask(0);
 
